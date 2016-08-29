@@ -1,5 +1,5 @@
 //
-//  PracticeClass.swift
+//  Test2.swift
 //  GitPractice
 //
 //  Created by Gaz Long on 29/08/2016.
@@ -8,9 +8,9 @@
 
 import Foundation
 
-class hello {
+class Test2 {
     
-    var test1:Int!
+    var anotherTest:Int!
     
     
 }

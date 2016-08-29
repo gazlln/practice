@@ -12,7 +12,7 @@
 		9C9B50481D74CE3000667791 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C9B50461D74CE3000667791 /* Main.storyboard */; };
 		9C9B504A1D74CE3000667791 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C9B50491D74CE3000667791 /* Assets.xcassets */; };
 		9C9B504D1D74CE3000667791 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C9B504B1D74CE3000667791 /* LaunchScreen.storyboard */; };
-		9C9B50551D74CFF300667791 /* PracticeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9B50541D74CFF300667791 /* PracticeClass.swift */; };
+		9C9B50571D74D16A00667791 /* Test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9B50561D74D16A00667791 /* Test2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		9C9B50491D74CE3000667791 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C9B504C1D74CE3000667791 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9C9B504E1D74CE3000667791 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9C9B50541D74CFF300667791 /* PracticeClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PracticeClass.swift; sourceTree = "<group>"; };
+		9C9B50561D74D16A00667791 /* Test2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				9C9B50491D74CE3000667791 /* Assets.xcassets */,
 				9C9B504B1D74CE3000667791 /* LaunchScreen.storyboard */,
 				9C9B504E1D74CE3000667791 /* Info.plist */,
-				9C9B50541D74CFF300667791 /* PracticeClass.swift */,
+				9C9B50561D74D16A00667791 /* Test2.swift */,
 			);
 			path = GitPractice;
 			sourceTree = "<group>";
@@ -138,9 +138,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C9B50571D74D16A00667791 /* Test2.swift in Sources */,
 				9C9B50451D74CE3000667791 /* ViewController.swift in Sources */,
 				9C9B50431D74CE3000667791 /* AppDelegate.swift in Sources */,
-				9C9B50551D74CFF300667791 /* PracticeClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
